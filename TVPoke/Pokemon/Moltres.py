@@ -9,4 +9,4 @@ class Moltres(Fire):
             Move("Blazing Flight", "FIRE", 0),
             Move("Fire Wing", "FIRE", 110)
         ]
-        super().__init__("Moltres", 80, moves, "./TVPoke/Pokemon/imgs/Moltres.png")
+        super().__init__("Moltres", 100, moves, "./TVPoke/Pokemon/imgs/Moltres.png")
